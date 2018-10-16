@@ -1,5 +1,4 @@
 package IAOYLU;
-
 public class Main {
 
     public static void main(String[] args) {
